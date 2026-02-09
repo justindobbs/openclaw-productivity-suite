@@ -1,3 +1,3 @@
-# OpenClaw Productivity Suite
+# openclaw-productivity-suite
 
-A productivity suite for OpenClaw development.
+My personal collection of OpenClaw skills and experiments.
