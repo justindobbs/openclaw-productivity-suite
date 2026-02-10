@@ -2,7 +2,7 @@
 
 **🔗 [View on ClawHub](https://clawhub.ai/justindobbs/openclaw-safety-coach)**
 
-This skill attempts to establish a baseline of safety and security for OpenClaw development, embracing the **Pareto Principle** (80/20 rule), or the law of diminishing returns.
+The goal of this Openclaw skill is to establish a baseline of safety and security for OpenClaw development, embracing the **Pareto Principle** (80/20 rule), or the law of diminishing returns.
 
 ## Philosophy
 
