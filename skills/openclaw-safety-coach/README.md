@@ -35,6 +35,7 @@ This skill now covers the latest OpenClaw security features:
 2. **Immediate actions:**
    - Run `openclaw secrets audit` to check for plaintext API keys
    - Run `openclaw security audit` for general security assessment (confirms gateway auth, TLS 1.3, dangerous flags, skill/plugin scanner results)
+   - Run `openclaw security audit --fix` to automatically address most issues
    - Verify `dmPolicy="pairing"` is set for all providers
    - Review `openclaw pairing list` for unauthorized access attempts
    - Check `session.dmScope="per-channel-peer"` (shared inbox default) and group `requireMention`/allowlists
