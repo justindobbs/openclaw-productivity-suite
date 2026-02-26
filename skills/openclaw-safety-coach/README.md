@@ -2,9 +2,9 @@
 
 **🔗 [View on ClawHub](https://clawhub.ai/justindobbs/openclaw-safety-coach)**
 
-**  [View on GitHub](https://github.com/justindobbs/openclaw-productivity-suite/blob/main/skills/openclaw-safety-coach)**
+**🔗 [View on GitHub](https://github.com/justindobbs/openclaw-productivity-suite/blob/main/skills/openclaw-safety-coach)**
 
-The goal of this Openclaw skill is to establish a baseline of safety and security for OpenClaw development, embracing the **Pareto Principle** (80/20 rule), or the law of diminishing returns.
+This skill is designed to help you set up a secure and safe environment for your OpenClaw instance. We've learned that the majority of security issues can be avoided with a few simple steps. By following these steps, you can ensure that your OpenClaw instance is protected from potential threats.
 
 ## Philosophy
 
